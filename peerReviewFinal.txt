@@ -1,0 +1,19 @@
+Dominick recommended that I go back in and document my code more and add docstrings to all of my functions.
+I went back through and made sure that everything was properly documented. I also made docstrings for every function. 
+
+He also recommended that I make a button at the end once the player wins the game, you can click play again or quit. I made sure to implement this as well.
+
+ChatGPT acknowledgement: 
+I was having issues with the play again button.
+https://chatgpt.com/g/g-6743e731a2088191b1346b4b35e3c5e8-graphpics-pygpt/c/674e3e32-d55c-800b-9fe6-cdf4017cd2e1
+
+
+I was having issues with the score logic.
+https://chatgpt.com/g/g-6743e731a2088191b1346b4b35e3c5e8-graphpics-pygpt/c/674541a0-e5a0-800b-82d0-76ebce02144a
+
+I was having issues with the player score being saved as a string instead of a numerical value
+https://chatgpt.com/c/67450225-787c-800b-892a-ad8ef8884971
+
+
+I needed help figuring out what methods parts of my code were for docstrings
+https://chatgpt.com/c/674e6e53-8528-800b-a34b-7259a08369f3
